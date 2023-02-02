@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/api-birds/static/css/main.b58722bb.css",
+    "main.css": "/api-birds/static/css/main.f544052b.css",
     "main.js": "/api-birds/static/js/main.016a0424.js",
     "index.html": "/api-birds/index.html",
-    "main.b58722bb.css.map": "/api-birds/static/css/main.b58722bb.css.map",
+    "main.f544052b.css.map": "/api-birds/static/css/main.f544052b.css.map",
     "main.016a0424.js.map": "/api-birds/static/js/main.016a0424.js.map"
   },
   "entrypoints": [
-    "static/css/main.b58722bb.css",
+    "static/css/main.f544052b.css",
     "static/js/main.016a0424.js"
   ]
 }
