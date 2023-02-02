@@ -76,6 +76,7 @@ h1{
 @media (max-width: 576px) {
   h1{
     font-size: 3rem !important;
+    margin-top: 140px !important;
   }
   .form{
     margin: 0 70px 10px;
@@ -88,6 +89,7 @@ h1{
 @media (min-width: 576px) {
   h1{
     font-size: 4rem !important;
+    margin-top: 140px !important;
   }
   .form{
     margin: 0 80px 10px;
