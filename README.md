@@ -2,6 +2,6 @@ Prueba React, Consumo de APIs con React
 
 Desafío n°4, módulo React I
 
-Videos: //se subirá dentro de poco
+Video: https://www.youtube.com/watch?v=a5CvV-V6sHY
 
 Github Pages: https://lorenzoch2.github.io/api-birds
